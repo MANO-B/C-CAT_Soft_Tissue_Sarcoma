@@ -1,1 +1,1 @@
-# C-CAT_Soft_Tissue_Sarcoma
+# R codes and files for reproducing the results in the paper; Factors predictive of second-line chemotherapy in soft tissue sarcoma: an analysis of the National Genomic Profiling Database, Cancer Science 2023.
